@@ -1,0 +1,6 @@
+framework module Pods_EmbedFlutterScrollView {
+  umbrella header "Pods-EmbedFlutterScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}
